@@ -76,11 +76,6 @@ When I'm not in front of a computer screen, I'm probably working out, traveling,
         <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dz0brhzsu/image/upload/v1681011070/ifaguilar/postgresql-dark.png">
         <img alt="PostgreSQL" src="https://res.cloudinary.com/dz0brhzsu/image/upload/v1681011792/ifaguilar/postgresql-light.png">
     </picture>
-    <!-- Tailwind CSS -->
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dz0brhzsu/image/upload/v1681011070/ifaguilar/tailwindcss-dark.png">
-        <img alt="Tailwind CSS" src="https://res.cloudinary.com/dz0brhzsu/image/upload/v1681011792/ifaguilar/tailwindcss-light.png">
-    </picture>
 </div>
 
 <br>
