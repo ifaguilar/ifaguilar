@@ -11,7 +11,9 @@
 
 I'm front-end developer, passionate about creating high-quality apps and websites that look great and feel fantastic, using modern web technologies.
 
-I specialize in JavaScript and have experience working with Next.js and the MERN stack (MongoDB, Express, React, Node.js)
+I specialize in JavaScript and have experience working with Next.js and the MERN stack (MongoDB, Express, React, Node.js).
+
+<br>
 
 ### Front-end
 
