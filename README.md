@@ -1,17 +1,17 @@
 <div align="center">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ifaguilar/image/upload/v1684368457/ifaguilar/banner-dark.png">
-    <img alt="Banner" src="https://res.cloudinary.com/ifaguilar/image/upload/v1684368455/ifaguilar/banner-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ifaguilar/image/upload/v1692134230/ifaguilar/banner-dark.png">
+    <img alt="Banner" src="https://res.cloudinary.com/ifaguilar/image/upload/v1692134230/ifaguilar/banner-light.png">
 </picture>
 
 <br>
 
 ### About Me
 
-I'm front-end developer, passionate about creating high-quality apps and websites that look great and feel fantastic, using modern web technologies.
+I'm a passionate Full Stack developer dedicated to building amazing web experiences, using modern technologies.
 
-I specialize in JavaScript and have experience working with Next.js and the MERN stack (MongoDB, Express, React, Node.js).
+I specialize in JavaScript, the MERN stack (MongoDB, Express, React, Node.js) and Next.js. My focus is on creating elegant solutions that captivate both aesthetically and functionally.
 
 <br>
 
@@ -60,6 +60,11 @@ I specialize in JavaScript and have experience working with Next.js and the MERN
 ### Back-end
 
 <div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center;">
+    <!-- Python -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ifaguilar/image/upload/v1692130913/ifaguilar/python-dark.png">
+        <img alt="Python" src="https://res.cloudinary.com/ifaguilar/image/upload/v1692130913/ifaguilar/python-light.png">
+    </picture>
     <!-- Node.js -->
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ifaguilar/image/upload/v1684368456/ifaguilar/nodejs-dark.png">
@@ -69,11 +74,6 @@ I specialize in JavaScript and have experience working with Next.js and the MERN
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ifaguilar/image/upload/v1684368455/ifaguilar/express-dark.png">
         <img alt="Express" src="https://res.cloudinary.com/ifaguilar/image/upload/v1684368455/ifaguilar/express-light.png">
-    </picture>
-     <!-- Prisma -->
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/ifaguilar/image/upload/v1684368456/ifaguilar/prisma-dark.png">
-        <img alt="Prisma" src="https://res.cloudinary.com/ifaguilar/image/upload/v1684368456/ifaguilar/prisma-light.png">
     </picture>
     <!-- MongoDB -->
     <picture>
