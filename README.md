@@ -9,9 +9,7 @@
 
 ### About Me
 
-I'm a passionate Full Stack developer dedicated to building amazing web experiences, using modern technologies.
-
-I specialize in JavaScript, the MERN stack (MongoDB, Express, React, Node.js) and Next.js. My focus is on creating elegant solutions that captivate both aesthetically and functionally.
+Passionate Full Stack developer dedicated to building amazing web experiences, using modern technologies. Specializing in JavaScript, the MERN stack (MongoDB, Express, React, Node.js), and Next.js, I'm committed to creating elegant solutions that captivate both aesthetically and functionally.
 
 <br>
 
